@@ -17,9 +17,7 @@
   </defs>
 
   <text x="10" y="28" class="wordmark-main">
-    <!-- LoyKandahar in a solid, premium deep historic blue -->
     <tspan fill="#1A1A1A">LoyKandahar</tspan>
-    <!-- .com in a clean, fully visible dark charcoal -->
     <tspan fill="#1A1A1A" class="wordmark-com">.com</tspan>
   </text>
 </svg>
